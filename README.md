@@ -5,6 +5,6 @@
 #USAGE  after viewing file in terminal through cat, more, less
 # ./lcp !!
 
-#check your root folder.  Also if you download clipboard through APT you can uncomment the last line to put the file contents in your clipboard (X).
+#check your ~/ folder.  Also if you download clipboard through APT you can uncomment the last line to put the file contents in your clipboard (X).
 
 
