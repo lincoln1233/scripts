@@ -1,4 +1,4 @@
-#lcp is a quick shell script to locally copy last output 
+#lcpy is a quick shell script to locally copy last output 
 #On a remote server via ssh and want to copy some file contents over without having to highlight and paste into a text file?
 # just "cat <file>"   then   ./lcpy !!    and it's in your local root folder...no scping required!  (because who remembers that syntax, really?)
 
