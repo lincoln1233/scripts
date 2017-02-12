@@ -1,0 +1,6 @@
+#! /bin/sh
+ 	
+# "$@" | xclip -selection c  #this could also work
+
+lcpy() { eval "$(history -p \!\!)" | xclip -selection c; }
+
